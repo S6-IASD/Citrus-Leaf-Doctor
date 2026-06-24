@@ -1,6 +1,6 @@
 <h1 align="center">🍊 Citrus Leaf Disease Detection</h1>
 
-<p align="center"> A computer vision project that detects diseases on citrus leaves from a photo, using two chained deep learning models instead of a single classifier. <\p>
+<p align="center"> A computer vision project that detects diseases on citrus leaves from a photo, using two chained deep learning models instead of a single classifier.
 
 ![Pipeline architecture](./pipeline.jpeg)
 
